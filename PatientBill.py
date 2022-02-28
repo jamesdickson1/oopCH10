@@ -40,10 +40,6 @@ def main():
     else:
         print("Total Charges: $",format(totcharge,",.2f"))
 
-        
-    
-
-
 
 main()
 
